@@ -1,0 +1,2 @@
+# kittyconfig
+Kitty terminal configuration
